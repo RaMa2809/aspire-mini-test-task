@@ -17,3 +17,8 @@ Please follow below steps
 - Test cases uses a hard coded token for protected method, so they may break. I assure I will learn to fix this problem, asap. 
 
 - Postman API documentation is attached in the email : 
+
+
+## I have attached the postman collection with the email, that I have sent to Thanh. Or can be accessed here
+
+https://www.getpostman.com/collections/1e562567ef387910d29d
