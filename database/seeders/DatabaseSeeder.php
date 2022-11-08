@@ -29,7 +29,7 @@ class DatabaseSeeder extends Seeder
             'name' => Str::random(10),
             'email' => Str::random(10).'@mailinator.com',
             'password' => bcrypt('password'),
-            'role' => 'users',
+            'role' => 'user',
         ]);
     }
 }
